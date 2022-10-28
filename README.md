@@ -1,6 +1,8 @@
 # Praktikum3
 
 Penjelasan cara kerja codingan menghitung luas & keliling lingkaran
+
+
 ![1](Gambar/gambar1.png)
 
 1. Tambahkan variabel jari-jari, input dalam bentuk float dan teks nya di isi dengan "Masukan nilai jari-jari"
@@ -18,4 +20,5 @@ Penjelasan cara kerja codingan menghitung luas & keliling lingkaran
    - Dan fungsi \t untuk membuat spasi
    
 5. Hasil dari program di atas
+
 ![2](Gambar/gambar2.png)
